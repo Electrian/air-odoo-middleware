@@ -1,0 +1,11 @@
+{
+  "name": "air-odoo-middleware",
+  "version": "1.0.0",
+  "description": "Middleware para cotizaciones Air ↔ Odoo",
+  "main": "api/cotizar.js",
+  "scripts": {
+    "start": "node api/cotizar.js"
+  },
+  "type": "module",
+  "dependencies": {}
+}
